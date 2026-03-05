@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="flex items-center justify-center gap-2 mb-6">
           <ScanFace className="w-6 h-6 text-neon-blue" />
           <span className="text-lg font-bold tracking-wider text-white">
-            NEXUS<span className="text-neon-blue">.AI</span>
+            FaceAuth<span className="text-neon-blue">.AI</span>
           </span>
         </div>
 

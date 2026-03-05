@@ -18,3 +18,21 @@ View your app in AI Studio: https://ai.studio/apps/0aae8c63-f33d-4545-b850-045db
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Setup the Frontend (The Interface)
+Open a new terminal tab in the main project folder:
+
+Once started, visit http://localhost:5173 in your browser.
+
+🛠️ Tech Stack
+Frontend: React, Vite, Tailwind CSS, Framer Motion.
+
+Backend: Python, FastAPI, DeepFace AI, OpenCV.
+
+Design: Neon-cyberpunk UI for enhanced user engagement.
+
+⚖️ Multidisciplinary Impact
+Computer Science: Integration of Deep Learning models for facial verification.
+
+Ethics & Privacy: Local-only processing of biometric data to ensure user privacy.
+
+Professional Practice: Industry-standard version control using Git and GitHub.

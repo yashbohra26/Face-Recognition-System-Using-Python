@@ -13,7 +13,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <ScanFace className="w-8 h-8 text-neon-blue" />
           <span className="text-xl font-bold tracking-wider text-white">
-            NEXUS<span className="text-neon-blue">.AI</span>
+            FaceAuth<span className="text-neon-blue">.AI</span>
           </span>
         </div>
 
