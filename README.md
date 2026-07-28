@@ -8,9 +8,6 @@ A modern web application that performs real-time face detection and facial verif
 
 ---
 
-## 📸 Preview
-
-<img width="1200" alt="Project Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6"/>
 
 🌐 **Live Demo:** https://face-recognition-system-using-pytho.vercel.app/
 
